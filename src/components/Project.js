@@ -13,12 +13,12 @@ export default function Project() {
             {
                 images: WebsiteImg2,
                 description: 'An Restaurant landing page. Built with React JS',
-                link: 'http://bit.ly/4doDolP'
+                link: 'https://vocal-dieffenbachia-2c97b5.netlify.app/'
             },
             {
                 images: WebsiteImg3,
                 description: 'Food spices ecommerce website like swiggy, built with Boostrap & HTML',
-                link: 'https://bit.ly/4fnNh5b'
+                link: 'https://sprightly-rugelach-d4abfd.netlify.app/'
             }
         ]
     }
